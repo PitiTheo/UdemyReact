@@ -7,25 +7,25 @@ export function App() {
 			id: "ed1",
 			title: "toilet paper",
 			amount: "94.12",
-			date: Date(2020, 7, 8)
+			date: new Date(2020, 7, 8)
 		},
 		{
 			id: "ed2",
 			title: "car insurance",
 			amount: 100.12,
-			date: Date(2020, 8, 8)
+			date: new Date(2021, 8, 8)
 		},
 		{
 			id: "ed3",
 			title: "coffee",
 			amount: 12,
-			date: Date(2020, 7, 8)
+			date: new Date(2012, 7, 8)
 		},
 		{
 			id: "ed4",
 			title: "cigarrets",
 			amount: 50,
-			date: Date(2020, 10, 8)
+			date: new Date(2016, 10, 8)
 		}
 	];
 
